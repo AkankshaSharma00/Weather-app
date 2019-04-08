@@ -1,0 +1,36 @@
+body{
+  background: linear-gradient(180deg, cyan, pink, rgb(300, 300,100)); 
+  background-repeat: no-repeat;
+
+}
+
+.App {
+  text-align: center;
+  display: block; 
+}
+
+.Head{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 52px;
+  color: brown;
+}
+
+p{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 32px;
+  color: maroon;
+}
+
+input{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 26px;
+  margin: 10px;
+}
+
+button{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 26px;
+  margin: 10px;
+  border-radius: 25px 25px 25px 25px;
+  padding: 15px;
+}
